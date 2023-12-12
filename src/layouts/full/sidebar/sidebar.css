@@ -1,0 +1,66 @@
+.sidebar{
+    /* background-color: #636363; */
+    /* height: 620px; */
+    color: #892222 !important;
+    /* padding-top: 35px; */
+    font-size: 17px !important;
+}
+
+
+
+
+.sidebarNav li .active {
+    background: #f53333;
+}
+.sidebarNav li a:hover {
+    background: #000!important;
+    color:#fff !important;
+}
+
+
+
+.sidebar-box .MuiPaper-root{
+    background-color: #222 !important;
+}
+.sidebarNav li a {
+    color: #db4f4f;
+}
+
+
+ .MuiPaper-elevation16 .sidebar{
+    background: #222!important;
+}
+
+@media(max-width:1199px){
+    /* div .css-1so3095-MuiPaper-root-MuiDrawer-paper {
+        background-color: #222 !important;
+    } */
+
+
+    
+}
+
+.sidebar-img .logo-img {
+    width: 180px;
+    height: 80px;
+    padding-top: 5px;
+}
+
+/* .css-12digr4-MuiButtonBase-root-MuiListItem-root {
+    color: #fff !important;
+} */
+.sidebar-img{
+    text-align: center;
+    
+
+}
+
+
+.sidebar-1 .css-10hburv-MuiTypography-root {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+
+
+
+
